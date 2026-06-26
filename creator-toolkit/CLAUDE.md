@@ -1,11 +1,12 @@
 # Creator Toolkit
 
-AI-powered content creation assistant for Chinese content creators. Two invocable skills for topic discovery and multi-platform content adaptation.
+AI-powered content creation assistant for Chinese content creators. Three invocable skills covering the full content pipeline: topic discovery → multi-platform copy → video script.
 
 ## Skills
 
 - `/topic-finder` — Discover trending topics from Douyin, Xiaohongshu, Weibo, and web searches. Outputs 3-5 topic suggestions with heat scores and angles.
 - `/content-adapter` — Adapt a selected topic into platform-optimized copy for Douyin, Xiaohongshu, and Bilibili simultaneously.
+- `/script-writer` — Generate a time-segmented koubo (口播) video script from a topic + duration (15s to 5min). Outputs visual + audio columns ready for filming.
 
 ## Configuration
 
